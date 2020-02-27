@@ -1,0 +1,14 @@
+<project>
+<!--Add repositories-->
+    <repositories>
+    <repository>
+        <id>hoyouly-maven-repo-snap</id>
+        <url>https://raw.githubusercontent.com/hoyouly/maven-repository/snapshot/repository</url>
+    </repository>
+    <repository>
+        <id>hoyouly-maven-repo-release</id>
+        <url>https://raw.githubusercontent.com/hoyouly/maven-repository/release/repository</url>
+    </repository>
+</repositories>
+
+</project>
